@@ -71,7 +71,6 @@ D462EA:HUAWEI TECHNOLOGIES CO.,LTD
 94DC4E:AEV, spol. s r. o.
 1442FC:Texas Instruments
 AC5D5C:FN-LINK TECHNOLOGY LIMITED
-A4AE11:Hon Hai Precision Ind. Co., Ltd.
 54DED0:Sevio Srl
 6C5E3B:Cisco Systems, Inc
 401920:Movon Corporation
@@ -207,7 +206,6 @@ A86D5F:Raisecom Technology CO., LTD
 58ECED:Integrated Device Technology (Malaysia) Sdn. Bhd.
 005079:Private
 100C6B:NETGEAR
-505FB5:Askey Computer Corp.
 C4F0EC:Fiberhome Telecommunication Technologies Co.,LTD
 E80FC8:Universal Electronics, Inc.
 E45D37:Juniper Networks
@@ -221,7 +219,6 @@ E009BF:SHENZHENâTONG BO WEIâTECHNOLOGY Co.,LTD
 783607:Cermate Technologies Inc.
 B00073:Wistron Neweb Corporation
 D88DC8:Atil Technology Co., LTD
-88DE7C:Askey Computer Corp.
 A8E2C1:Texas Instruments
 909A77:Texas Instruments
 04EE03:Texas Instruments
@@ -254,7 +251,6 @@ A43EA0:iComm HK LIMITED
 B4ED19:Pie Digital, Inc.
 40DF02:LINE BIZ Plus
 CCE194:Juniper Networks
-900218:BSkyB Ltd
 144E2A:Ciena Corporation
 84139F:zte corporation
 F051EA:Fitbit, Inc.
@@ -482,7 +478,6 @@ D47C44:IEEE Registration Authority
 7C96D2:Fihonest communication co.,Ltd
 C042D0:Juniper Networks
 D0C5D8:LATECOERE
-7054B4:Vestel Elektronik San ve Tic. A.Å.
 20A60C:Xiaomi Communications Co Ltd
 488AD2:MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
 DCE838:CK Telecom (Shenzhen) Limited
@@ -495,7 +490,6 @@ A8D498:Avira Operations GmbH & Co. KG
 000C42:Routerboard.com
 0026BD:JTEC Card &amp; Communication Co., Ltd
 60D02C:Ruckus Wireless
-D058FC:BSkyB Ltd
 14579F:HUAWEI TECHNOLOGIES CO.,LTD
 B44326:HUAWEI TECHNOLOGIES CO.,LTD
 78D294:NETGEAR
@@ -1372,7 +1366,6 @@ AC620D:Jabil Circuit(Wuxi) Co.,Ltd
 0000C9:Emulex Corporation
 0040AA:Valmet Automation
 D0B0CD:Moen
-7050AF:BSkyB Ltd
 F4EF9E:SGSG SCIENCE & TECHNOLOGY CO. LTD
 1C740D:Zyxel Communications Corporation
 603ECA:Cambridge Medical Robotics Ltd
@@ -1679,11 +1672,9 @@ C8D3A3:D-Link International
 B499BA:Hewlett Packard
 047863:Shanghai MXCHIP Information Technology Co., Ltd.
 409F87:Jide Technology (Hong Kong) Limited
-0CF9C0:BSkyB Ltd
 4CFF12:Fuze Entertainment Co., ltd
 AC9A22:NXP Semiconductors
 287CDB:Hefei Toycloud Technology Co.,ltd
-806AB0:Shenzhen TINNO Mobile Technology Corp.
 48AD08:HUAWEI TECHNOLOGIES CO.,LTD
 4CFB45:HUAWEI TECHNOLOGIES CO.,LTD
 009ACD:HUAWEI TECHNOLOGIES CO.,LTD
@@ -1772,7 +1763,6 @@ D07AB5:HUAWEI TECHNOLOGIES CO.,LTD
 0019C6:zte corporation
 001DD9:Hon Hai Precision Ind. Co.,Ltd.
 00197D:Hon Hai Precision Ind. Co.,Ltd.
-7C4CA5:BSkyB Ltd
 0014A4:Hon Hai Precision Ind. Co.,Ltd.
 78DD08:Hon Hai Precision Ind. Co.,Ltd.
 9CD21E:Hon Hai Precision Ind. Co.,Ltd.
@@ -1783,7 +1773,6 @@ B43052:HUAWEI TECHNOLOGIES CO.,LTD
 9CD24B:zte corporation
 C87B5B:zte corporation
 0007D8:Hitron Technologies. Inc
-C03E0F:BSkyB Ltd
 904E2B:HUAWEI TECHNOLOGIES CO.,LTD
 2008ED:HUAWEI TECHNOLOGIES CO.,LTD
 0034FE:HUAWEI TECHNOLOGIES CO.,LTD
@@ -5307,7 +5296,6 @@ B887C6:Prudential Technology co.,LTD
 EC9C32:SichuanÂ AI-LinkÂ TechnologyÂ Co.,Â Ltd.
 4CADA8:PANOPTICS CORP.
 FC1CA1:Nokia
-D42DC5:Panasonic i-PRO Sensing Solutions Co., Ltd.
 E8D03C:Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
 1C1ADF:Microsoft Corporation
 D4F547:Google, Inc.
@@ -5373,7 +5361,6 @@ E02AE6:Fiberhome Telecommunication Technologies Co.,LTD
 788B2A:Zhen Shi Information Technology (Shanghai) Co., Ltd.
 AC64CF:FN-LINK TECHNOLOGY LIMITED
 F06728:GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-BCD767:Private
 9CE176:Cisco Systems, Inc
 102959:Apple, Inc.
 E47684:Apple, Inc.
@@ -5446,7 +5433,6 @@ A416E7:HUAWEI TECHNOLOGIES CO.,LTD
 8C83DF:Nokia
 AC4B1E:Integri-Sys.Com LLC
 B0E4D5:Google, Inc.
-D4DACD:BSkyB Ltd
 6869CA:Hitachi, Ltd.
 AC4A56:Cisco Systems, Inc
 F4EAB5:Extreme Networks, Inc.
@@ -5705,8 +5691,6 @@ B456E3:Apple, Inc.
 4C20B8:Apple, Inc.
 1488E6:Apple, Inc.
 BC0F9A:D-Link International
-B04530:BSkyB Ltd
-6CA0B4:BSkyB Ltd
 947BBE:Ubicquia LLC
 24649F:Huawei Device Co., Ltd.
 0C1773:Huawei Device Co., Ltd.
@@ -5750,7 +5734,6 @@ F0FEE7:Huawei Device Co., Ltd.
 DCA120:Nokia
 50523B:Nokia
 DCCD74:Japan E.M.Solutions Co., Ltd.
-001293:ABB Power Protection (CH)
 A03B01:Kyung In Electronics
 18188B:FUJITSU CONNECTED TECHNOLOGIES LIMITED
 145E69:GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
@@ -5774,7 +5757,6 @@ A0A3F0:D-Link International
 08FF24:Shenzhen Skyworth Digital Technology CO., Ltd
 50558D:China Mobile IOT Company Limited
 642656:Shenzhen Fanweitai Technology Service Co.,Ltd
-E06C4E:Shenzhen TINNO Mobile Technology Corp.
 F0258E:HUAWEI TECHNOLOGIES CO.,LTD
 9C746F:HUAWEI TECHNOLOGIES CO.,LTD
 64E003:Hui Zhou Gaoshengda Technology Co.,LTD
@@ -6100,7 +6082,6 @@ B43D08:GX International BV
 7089F5:Dongguan Lingjie IOT Co., LTD
 88DC96:EnGenius Technologies, Inc.
 40B0A1:VALCOM CO.,LTD.
-B8208E:Panasonic Corporation Connected Solutions Company
 90380C:Espressif Inc.
 847B57:Intel Corporate
 64CBE9:LG Innotek
@@ -6142,7 +6123,6 @@ F8C3CC:Apple, Inc.
 604DE1:HUAWEI TECHNOLOGIES CO.,LTD
 704E6B:HUAWEI TECHNOLOGIES CO.,LTD
 70C6DD:New H3C Technologies Co., Ltd
-3C9EC7:BSkyB Ltd
 185B00:Nokia
 6CC49F:Aruba, a Hewlett Packard Enterprise Company
 603D29:HUAWEI TECHNOLOGIES CO.,LTD
@@ -6256,16 +6236,17 @@ AC567B:Sunnovo International Limited
 80657C:Apple, Inc.
 DC8084:Apple, Inc.
 8CC7C3:NETLINK ICT
+E4DADF:Taicang T&W Electronics
 7C35F8:Zhejiang Tmall Technology Co., Ltd.
 7426FF:zte corporation
 C42728:zte corporation
 C85895:Motorola Mobility LLC, a Lenovo Company
-E4DADF:Taicang T&W Electronics
 A8537D:Mist Systems, Inc.
 303422:eero inc.
 08E021:Honor Device Co., Ltd.
 B05C16:Fiberhome Telecommunication Technologies Co.,LTD
 E8D322:Cisco Systems, Inc
+302BDC:Top-Unum Electronics Co., LTD
 8C1553:Beijing Memblaze Technology Co Ltd
 D4BD4F:Ruckus Wireless
 5CC9C0:Renesas Electronics (Penang) Sdn. Bhd.
@@ -6274,67 +6255,195 @@ E881AB:Beijing Sankuai Online Technology Co.,Ltd
 1C47F6:Zhidao Network Technology(Shenzhen) Co.,Ltd
 A0B4BF:InfiNet LLC
 E8EBD3:Mellanox Technologies, Inc.
-302BDC:Top-Unum Electronics Co., LTD
-90F7B2:New H3C Technologies Co., Ltd
-04E31A:Sagemcom Broadband SAS
 C0060C:HUAWEI TECHNOLOGIES CO.,LTD
 B0A4F0:HUAWEI TECHNOLOGIES CO.,LTD
 24753A:GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+90F7B2:New H3C Technologies Co., Ltd
+04E31A:Sagemcom Broadband SAS
 6C999D:Amazon Technologies Inc.
-6C9308:IEEE Registration Authority
 7C6A60:China Mobile Group Device Co.,Ltd.
 6818D9:Hill AFB - CAPRE Group
 18BC57:ADVA Optical Networking Ltd.
-D8E2DF:Microsoft Corporation
-1C61B4:TP-Link Corporation Limited
 9CA2F4:TP-Link Corporation Limited
+1C61B4:TP-Link Corporation Limited
 B4695F:TCT mobile ltd
+D8E2DF:Microsoft Corporation
+6C9308:IEEE Registration Authority
 388F30:Samsung Electronics Co.,Ltd
-A04466:Intellics
-446D7F:Amazon Technologies Inc.
+2406F2:Sichuan Tianyi Comheart Telecom Co.,LTD
 84C692:Texas Instruments
 6CB2FD:Texas Instruments
 6C0F61:Hypervolt Ltd
-2406F2:Sichuan Tianyi Comheart Telecom Co.,LTD
+A04466:Intellics
+CC6618:Adtran Inc
+C0C170:Shenzhen SuperElectron Technology Co.,Ltd.
+504289:zte corporation
+308E7A:Shenzhen iComm Semiconductor CO.,LTD
+2CDD5F:Shenzhen iComm Semiconductor CO.,LTD
 C06DED:Hangzhou Hikvision Digital Technology Co.,Ltd.
+446D7F:Amazon Technologies Inc.
+E0276C:Guangzhou Shiyuan Electronic Technology Company Limited
 90935A:ARRIS Group, Inc.
 AC8FA9:Nokia Solutions and Networks GmbH & Co. KG
 4C734F:Juniper Networks
-C0C170:Shenzhen SuperElectron Technology Co.,Ltd.
-504289:zte corporation
-44291E:AltoBeam (China) Inc.
 24EBED:HUAWEI TECHNOLOGIES CO.,LTD
-308E7A:Shenzhen iComm Semiconductor CO.,LTD
-2CDD5F:Shenzhen iComm Semiconductor CO.,LTD
 AC51AB:HUAWEI TECHNOLOGIES CO.,LTD
 48CDD3:HUAWEI TECHNOLOGIES CO.,LTD
-CC6618:Adtran Inc
-E0276C:Guangzhou Shiyuan Electronic Technology Company Limited
+F8AD24:Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+A8C98A:New H3C Technologies Co., Ltd
+44291E:AltoBeam (China) Inc.
 DC8E95:Silicon Laboratories
+7CEF40:Nextorage Corporation
 28BE43:vivo Mobile Communication Co., Ltd.
 2CFC8B:GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-F8AD24:Realme Chongqing Mobile Telecommunications Corp.,Ltd.
-B01F8C:Aruba, a Hewlett Packard Enterprise Company
-A8C98A:New H3C Technologies Co., Ltd
-002604:WorldCast Systems
-7CEF40:Nextorage Corporation
-1CAF4A:Samsung Electronics Co.,Ltd
-C8120B:Samsung Electronics Co.,Ltd
 2874F5:Nokia Solutions and Networks GmbH & Co. KG
+B01F8C:Aruba, a Hewlett Packard Enterprise Company
 C0E01C:IoT Security Group, SL
-0000BD:RYOSEI, Ltd.
-902CFB:CanTops Co,.Ltd.
+002604:WorldCast Systems
+00CB7A:Technicolor CH USA Inc.
 F8AB82:Xiaomi Communications Co Ltd
 EC30B3:Xiaomi Communications Co Ltd
-00CB7A:Technicolor CH USA Inc.
+1CAF4A:Samsung Electronics Co.,Ltd
+C8120B:Samsung Electronics Co.,Ltd
+902CFB:CanTops Co,.Ltd.
 A8A237:Arcadyan Corporation
+0000BD:RYOSEI, Ltd.
+ACCCFC:Amazon Technologies Inc.
+08E63B:zte corporation
+88C174:zte corporation
+C89E61:Lyngsoe Systems LTd
 9C57BC:eero inc.
 2C8217:Apple, Inc.
 142D4D:Apple, Inc.
 EC42CC:Apple, Inc.
 B8211C:Apple, Inc.
+D45A3F:Juniper Networks
+E8DC6C:Cisco Systems, Inc
+48B4C3:Aruba, a Hewlett Packard Enterprise Company
 B03F64:Apple, Inc.
-ACCCFC:Amazon Technologies Inc.
+68A7B4:Honor Device Co., Ltd.
+803C20:HUAWEI TECHNOLOGIES CO.,LTD
+A4DD58:HUAWEI TECHNOLOGIES CO.,LTD
+E028B1:Shenzhen Skyworth Digital Technology CO., Ltd
+C08D51:Amazon Technologies Inc.
+44B4B2:Amazon Technologies Inc.
+6C1524:IEEE Registration Authority
+78034F:Nokia
+001293:ABB Switzerland Ltd.
+C0E911:Private
+14F592:Shenzhen SDG DONZHI Technology Co., Ltd
+4C09FA:FRONTIER SMART TECHNOLOGIES LTD
+242CFE:Zhejiang Tmall Technology Co., Ltd.
+A042D1:Huawei Device Co., Ltd.
+2CDC78:Descartes Systems (USA) LLC
+58879F:Huawei Device Co., Ltd.
+E8D87E:Amazon Technologies Inc.
+9C1FCA:Hangzhou AlmightyDigit Technology Co., Ltd
+8470D7:eero inc.
+E06C4E:Shenzhen TINNO Mobile Technology Corp.
+581DD8:Sagemcom Broadband SAS
+806AB0:Shenzhen TINNO Mobile Technology Corp.
+F4B3B1:Silicon Laboratories
+04698F:Juniper Networks
+149BF3:GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+10071D:Fiberhome Telecommunication Technologies Co.,LTD
+10B232:Qingdao Intelligent&Precise Electronics Co.,Ltd.
+B850D8:Beijing Xiaomi Mobile Software Co., Ltd
+C09F51:SERNET (SUZHOU) TECHNOLOGIES CORPORATION
+8002F4:IEEE Registration Authority
+A0CDF3:Murata Manufacturing Co., Ltd.
+B48A0A:Espressif Inc.
+C83A1B:Toshiba TEC Corporation Inc
+ECA62F:HUAWEI TECHNOLOGIES CO.,LTD
+AC5AF0:LG Electronics
+5C53C3:Ubee Interactive Co., Limited
+2432AE:Hangzhou Hikvision Digital Technology Co.,Ltd.
+3822F4:Huawei Device Co., Ltd.
+0CBEF1:Huawei Device Co., Ltd.
+AC936A:Huawei Device Co., Ltd.
+38A44B:Huawei Device Co., Ltd.
+1C0ED3:Sichuan Tianyi Comheart Telecom Co.,LTD
+7C4CA5:SKY UK LIMITED
+C03E0F:SKY UK LIMITED
+0CF9C0:SKY UK LIMITED
+7050AF:SKY UK LIMITED
+242934:Google, Inc.
+380A4F:PRACHI ENTERPRISES
+801970:Samsung Electronics Co.,Ltd
+E0F728:Amazon Technologies Inc.
+B8FBAF:Xiamen IPRT Technology CO.,LTD
+348518:Espressif Inc.
+D4DACD:SKY UK LIMITED
+B04530:SKY UK LIMITED
+6CA0B4:SKY UK LIMITED
+3C9EC7:SKY UK LIMITED
+ECE6A2:Fiberhome Telecommunication Technologies Co.,LTD
+04E8B9:Intel Corporate
+E02E0B:Intel Corporate
+A4AE11:Hon Hai Precision Industry Co., Ltd.
+D058FC:SKY UK LIMITED
+900218:SKY UK LIMITED
+385CFB:Silicon Laboratories
+C43D1A:Intel Corporate
+BCF88B:zte corporation
+68539D:EM Microelectronic
+E46564:SHENZHEN KTC TECHNOLOGY CO.,LTD
+C8BF4C:Beijing Xiaomi Mobile Software Co., Ltd
+581CF8:Intel Corporate
+AC198E:Intel Corporate
+C85EA9:Intel Corporate
+3CE064:Texas Instruments
+E0928F:Texas Instruments
+CC037B:Texas Instruments
+E051D8:China Dragon Technology Limited
+CC29BD:zte corporation
+7CDE78:New H3C Technologies Co., Ltd
+E0EF02:Chengdu Quanjing Intelligent Technology Co.,Ltd
+4CA3A7:TECNO MOBILE LIMITED
+209CB4:Aruba, a Hewlett Packard Enterprise Company
+E8CC8C:Chengdu Jiarui Hualian Communication Technology Co
+A8ABB5:Apple, Inc.
+5864C4:Apple, Inc.
+40A53B:Nokia
+B067B5:Apple, Inc.
+5C5284:Apple, Inc.
+C0956D:Apple, Inc.
+3C39C8:Apple, Inc.
+0443FD:Sichuan Tianyi Comheart Telecom Co.,LTD
+74803F:Renesas Electronics (Penang) Sdn. Bhd.
+ECA138:Amazon Technologies Inc.
+5C60BA:HP Inc.
+A4897E:Guangzhou Yuhong Technology Co.,Ltd.
+900A62:Inventus Power Eletronica do Brasil LTDA
+7054B4:Vestel Elektronik San ve Tic. A.S.
+04BF1B:Dell Inc.
+081A1E:Shenzhen iComm Semiconductor CO.,LTD
+AC3184:Huawei Device Co., Ltd.
+503F50:Huawei Device Co., Ltd.
+505FB5:ASKEY COMPUTER CORP
+88DE7C:ASKEY COMPUTER CORP
+481CB9:SZ DJI TECHNOLOGY CO.,LTD
+B8208E:Panasonic Connect Co., Ltd.
+3CA7AE:zte corporation
+80646F:Espressif Inc.
+045747:GoPro
+E0BAAD:Hangzhou Hikvision Digital Technology Co.,Ltd.
+089115:Amazon Technologies Inc.
+74D423:Amazon Technologies Inc.
+EC1D9E:Quectel Wireless Solutions Co.,Ltd.
+BCD767:BAE Systems Apllied Intelligence
+2C691D:IEEE Registration Authority
+D42DC5:i-PRO Co., Ltd.
+E04735:Ericsson AB
+F42B7D:Chipsguide technology CO.,LTD.
+8C5219:SHARP Corporation
+A044F3:RafaelMicro
+C404D8:Aviva Links Inc.
+80398C:Samsung Electronics Co.,Ltd
+980D6F:Samsung Electronics Co.,Ltd
+1C90FF:Tuya Smart Inc.
+10823D:Ruijie Networks Co.,LTD
+909877:Vestel Elektronik San ve Tic. A.S.
 9CFFC2:AVI Systems GmbH
 44D878:Hui Zhou Gaoshengda Technology Co.,LTD
 A0D807:Huawei Device Co., Ltd.
@@ -6383,7 +6492,6 @@ ACFE05:ITEL MOBILE LIMITED
 20DFB9:Google, Inc.
 5CCAD3:CHIPSEA TECHNOLOGIES (SHENZHEN) CORP.
 28167F:Xiaomi Communications Co Ltd
-B03E51:BSkyB Ltd
 5CE883:HUAWEI TECHNOLOGIES CO.,LTD
 100177:HUAWEI TECHNOLOGIES CO.,LTD
 44A191:HUAWEI TECHNOLOGIES CO.,LTD
@@ -6392,7 +6500,6 @@ A4530E:Cisco Systems, Inc
 00403A:IMPACT TECHNOLOGIES
 F887F1:Apple, Inc.
 9C28BF:Continental Automotive Czech Republic s.r.o.
-807215:BSkyB Ltd
 74D637:Amazon Technologies Inc.
 D05F64:IEEE Registration Authority
 BCC31B:Kygo Life A
@@ -6461,7 +6568,6 @@ D49DC0:Samsung Electronics Co.,Ltd
 D0196A:Ciena Corporation
 4413D0:zte corporation
 2462AB:Espressif Inc.
-88B436:Private
 6CAB05:Cisco Systems, Inc
 000BE4:Hosiden Corporation
 60D248:ARRIS Group, Inc.
@@ -6579,7 +6685,6 @@ BC3E07:Hitron Technologies. Inc
 001697:NEC Corporation
 003013:NEC Corporation
 049DFE:Hivesystem
-0CEC84:Shenzhen TINNO Mobile Technology Corp.
 9CDB07:Thum+Mahr GmbH
 DCEB69:Technicolor CH USA Inc.
 004E35:Hewlett Packard Enterprise
@@ -6604,7 +6709,6 @@ B4C62E:Molex CMS
 B8259A:Thalmic Labs
 282536:SHENZHEN HOLATEK CO.,LTD
 B8A175:Roku, Inc.
-CCD3C1:Vestel Elektronik San ve Tic. A.Å.
 0CD0F8:Cisco Systems, Inc
 745F90:LAM Technologies
 A42655:LTI Motion (Shanghai) Co., Ltd.
@@ -6631,7 +6735,6 @@ F4DD9E:GoPro
 D4D919:GoPro
 141114:TECNO MOBILE LIMITED
 A45046:Xiaomi Communications Co Ltd
-1C24CD:Askey Computer Corp.
 007C2D:Samsung Electronics Co.,Ltd
 B47748:Shenzhen Neoway Technology Co.,Ltd.
 F8501C:Tianjin Geneuo Technology Co.,Ltd
@@ -6695,7 +6798,6 @@ A8016D:Aiwa Corporation
 E43493:HUAWEI TECHNOLOGIES CO.,LTD
 342912:HUAWEI TECHNOLOGIES CO.,LTD
 604BAA:Magic Leap, Inc.
-4C364E:Panasonic Corporation Connected Solutions Company
 BCA58B:Samsung Electronics Co.,Ltd
 80CEB9:Samsung Electronics Co.,Ltd
 D0D3FC:Mios, Ltd.
@@ -7052,7 +7154,6 @@ FC7F56:CoSyst Control Systems GmbH
 84AA9C:MitraStar Technology Corp.
 F0EFD2:TF PAYMENT SERVICE CO., LTD
 24B2DE:Espressif Inc.
-F4939F:Hon Hai Precision Ind. Co., Ltd.
 000726:SHENZHEN GONGJIN ELECTRONICS CO.,LT
 FC8B97:SHENZHEN GONGJIN ELECTRONICS CO.,LT
 2CAB25:SHENZHEN GONGJIN ELECTRONICS CO.,LT
@@ -7847,7 +7948,6 @@ A4BA76:HUAWEI TECHNOLOGIES CO.,LTD
 DCC0EB:ASSA ABLOY CÃTE PICARDE
 28BC56:EMAC, Inc.
 00CDFE:Apple, Inc.
-A0F895:Shenzhen TINNO Mobile Technology Corp.
 0078CD:Ignition Design Labs
 B436A9:Fibocom Wireless Inc.
 70CA4D:Shenzhen lnovance Technology Co.,Ltd.
@@ -9329,7 +9429,6 @@ D4AAFF:MICRO WORLD
 0024EC:United Information Technology Co.,Ltd.
 0024E6:In Motion Technology Inc.
 0024E7:Plaster Networks
-0024E4:Withings
 0024DE:GLOBAL Technology Inc.
 0024DC:Juniper Networks
 0024DB:Alcohol Monitoring Systems
@@ -10012,7 +10111,6 @@ D4AAFF:MICRO WORLD
 00135B:PanelLink Cinema, LLC
 00136F:PacketMotion, Inc.
 001368:Saab Danmark A/S
-0013B4:Appear TV
 0013AE:Radiance Technologies, Inc.
 001397:Oracle Corporation
 0013C3:Cisco Systems, Inc
@@ -11463,7 +11561,6 @@ F854B8:Amazon Technologies Inc.
 781735:Nokia Shanghai Bell Co., Ltd.
 3C894D:Dr. Ing. h.c. F. Porsche AG
 84C807:ADVA Optical Networking Ltd.
-B43939:Shenzhen TINNO Mobile Technology Corp.
 A0AB51:WEIFANG GOERTEK ELECTRONICS CO.,LTD
 64C901:INVENTEC Corporation
 749EF5:Samsung Electronics Co.,Ltd
@@ -11483,7 +11580,6 @@ C4AD34:Routerboard.com
 D89E61:Huawei Device Co., Ltd.
 347E00:Huawei Device Co., Ltd.
 003092:Kontron Electronics AG
-80751F:BSkyB Ltd
 E85A8B:Xiaomi Communications Co Ltd
 442295:China Mobile Iot Limited company
 5C710D:Cisco Systems, Inc
@@ -11526,7 +11622,6 @@ A4BB6D:Dell Inc.
 6C06D6:Huawei Device Co., Ltd.
 0C8E29:Arcadyan Corporation
 A0224E:IEEE Registration Authority
-3027CF:Private
 3843E5:Grotech Inc
 CC593E:Sensium Healthcare Limited
 5C68D0:Aurora Innovation Inc.
@@ -11716,7 +11811,6 @@ A4BDC4:HUAWEI TECHNOLOGIES CO.,LTD
 481693:Lear Corporation GmbH
 B47947:Nutanix
 04F8F8:Edgecore Networks Corporation
-38F0C8:Mevo Inc.
 5CFE9E:Wiwynn Corporation Tainan Branch
 881C95:ITEL MOBILE LIMITED
 F46942:ASKEY COMPUTER CORP
@@ -11788,7 +11882,6 @@ A0CFF5:zte corporation
 3CA62F:AVM Audiovisuelles Marketing und Computersysteme GmbH
 98B3EF:Huawei Device Co., Ltd.
 50F958:Huawei Device Co., Ltd.
-C0A36E:BSkyB Ltd
 6032B1:TP-LINK TECHNOLOGIES CO.,LTD.
 E41F7B:Cisco Systems, Inc
 182649:Intel Corporate
@@ -11835,7 +11928,6 @@ E45AD4:Eltex Enterprise Ltd.
 842AFD:HP Inc.
 1CFE2B:Amazon Technologies Inc.
 CC483A:Dell Inc.
-A4AE12:Hon Hai Precision Ind. Co., Ltd.
 DCA3A2:Feng mi(Beijing)technology co., LTD
 7C25DA:FN-LINK TECHNOLOGY LIMITED
 A8698C:Oracle Corporation
@@ -11989,7 +12081,6 @@ C0E018:HUAWEI TECHNOLOGIES CO.,LTD
 5CE747:HUAWEI TECHNOLOGIES CO.,LTD
 A8FFBA:HUAWEI TECHNOLOGIES CO.,LTD
 AC78D1:Juniper Networks
-ECBE5F:Vestel Elektronik San ve Tic. A.Å.
 A4423B:Intel Corporate
 70CF49:Intel Corporate
 4851C5:Intel Corporate
@@ -12279,7 +12370,6 @@ E0C58F:China Mobile IOT Company Limited
 9C50D1:Murata Manufacturing Co., Ltd.
 140020:LongSung Technology (Shanghai) Co.,Ltd.
 441793:Espressif Inc.
-00A388:BSkyB Ltd
 503DEB:Zhejiang Tmall Technology Co., Ltd.
 30B930:zte corporation
 949869:zte corporation
@@ -12516,14 +12606,13 @@ D850A1:Hunan Danuo Technology Co.,LTD
 441AAC:Elektrik Uretim AS EOS
 4851D0:Jiangsu Xinsheng Intelligent Technology Co., Ltd.
 8077A4:TECNO MOBILE LIMITED
+7C6CF0:Shenzhen TINNO Mobile Technology Corp.
+00C30A:Xiaomi Communications Co Ltd
+8852EB:Xiaomi Communications Co Ltd
 B42875:Futecho Solutions Private Limited
 302364:Nokia Shanghai Bell Co., Ltd.
 0C1C1A:eero inc.
-00C30A:Xiaomi Communications Co Ltd
-8852EB:Xiaomi Communications Co Ltd
-7C6CF0:Shenzhen TINNO Mobile Technology Corp.
 00A0A2:B810 S.R.L.
-2C07F6:Wear Future Technologies Co., Ltd.
 3868BE:Sichuan Tianyi Comheart Telecom Co.,LTD
 DC9A7D:HISENSE VISUAL TECHNOLOGY CO.,LTD
 28A53F:vivo Mobile Communication Co., Ltd.
@@ -12535,52 +12624,54 @@ DC9A7D:HISENSE VISUAL TECHNOLOGY CO.,LTD
 6C67EF:HUAWEI TECHNOLOGIES CO.,LTD
 88693D:HUAWEI TECHNOLOGIES CO.,LTD
 00991D:HUAWEI TECHNOLOGIES CO.,LTD
+30CB36:Belden Singapore Pte. Ltd.
 B83FD2:Mellanox Technologies, Inc.
 283E0C:Preferred Robotics, Inc.
-30CB36:Belden Singapore Pte. Ltd.
 8C1759:Intel Corporate
 04BC9F:Calix Inc.
-BC6E6D:EM Microelectronic
+6CA401:essensys plc
+3492C2:Square Route Co., Ltd.
+34BD20:Hangzhou Hikrobot Technology Co., Ltd.
+64C269:eero inc.
 B04A6A:Samsung Electronics Co.,Ltd
 A8798D:Samsung Electronics Co.,Ltd
 5CEDF4:Samsung Electronics Co.,Ltd
-3492C2:Square Route Co., Ltd.
 283DC2:Samsung Electronics Co.,Ltd
+BC6E6D:EM Microelectronic
 00D49E:Intel Corporate
-6CA401:essensys plc
 CCF305:SHENZHEN TIAN XING CHUANG ZHAN ELECTRONIC CO.,LTD
-34BD20:Hangzhou Hikrobot Technology Co., Ltd.
-64C269:eero inc.
 AC2AA1:Cisco Systems, Inc
 F8E94F:Cisco Systems, Inc
 30894A:Intel Corporate
-B8D61A:Espressif Inc.
-BCF4D4:CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
-D89C8E:Comcast Cable Corporation
-74563C:GIGA-BYTE TECHNOLOGY CO.,LTD.
-EC551C:HUAWEI TECHNOLOGIES CO.,LTD
+E06CC5:Huawei Device Co., Ltd.
+30963B:Huawei Device Co., Ltd.
 8C6BDB:Huawei Device Co., Ltd.
 10DA49:Huawei Device Co., Ltd.
 60183A:Huawei Device Co., Ltd.
 18C007:Huawei Device Co., Ltd.
-E06CC5:Huawei Device Co., Ltd.
-30963B:Huawei Device Co., Ltd.
-90B57F:Shenzhen iComm Semiconductor CO.,LTD
 98597A:Intel Corporate
 64497D:Intel Corporate
-B48351:Intel Corporate
+B8D61A:Espressif Inc.
 0025CA:Laird Connectivity
+90B57F:Shenzhen iComm Semiconductor CO.,LTD
+74563C:GIGA-BYTE TECHNOLOGY CO.,LTD.
+D89C8E:Comcast Cable Corporation
 04B97D:AiVIS Co., Itd.
+BCF4D4:CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 C4C063:New H3C Technologies Co., Ltd
+EC551C:HUAWEI TECHNOLOGIES CO.,LTD
+E0798D:Silicon Laboratories
+B48351:Intel Corporate
+34AD61:CELESTICA INC.
 5443B2:Espressif Inc.
 C0DD8A:Facebook Technologies, LLC
-E0798D:Silicon Laboratories
-34AD61:CELESTICA INC.
+ACD31D:Cisco Meraki
 10961A:CHIPSEA TECHNOLOGIES (SHENZHEN) CORP.
 BCE9E2:Brocade Communications Systems LLC
+001848:Vecima Networks Inc.
+2C553C:Vecima Networks Inc.
 ACBF71:Bose Corporation
 18A59C:IEEE Registration Authority
-ACD31D:Cisco Meraki
 748469:Nintendo Co.,Ltd
 74718B:Apple, Inc.
 70317F:Apple, Inc.
@@ -12588,11 +12679,134 @@ A4CF99:Apple, Inc.
 4C2EB4:Apple, Inc.
 B41974:Apple, Inc.
 04E892:SHENNAN CIRCUITS CO.,LTD
-001848:Vecima Networks Inc.
-2C553C:Vecima Networks Inc.
 6095BD:Apple, Inc.
 001A35:BARTEC GmbH
+8CCBDF:FOXCONN INTERCONNECT TECHNOLOGY
+98F112:Hangzhou Hikvision Digital Technology Co.,Ltd.
+846993:HP Inc.
+746F88:zte corporation
 98C81C:BAYTEC LIMITED
+D0989C:ConMet
+1CA410:Amlogic, Inc.
+2426D6:HUAWEI TECHNOLOGIES CO.,LTD
+70A6BD:Honor Device Co., Ltd.
+EC819C:HUAWEI TECHNOLOGIES CO.,LTD
+200B16:Texas Instruments
+8801F9:Texas Instruments
+F85548:Texas Instruments
+68E74A:Texas Instruments
+4C9E6C:BROADEX TECHNOLOGIES CO.LTD
+ACA32F:Solidigm Technology
+AC712E:Fortinet, Inc.
+E4B633:Wuxi Stars Microsystem Technology Co., Ltd
+085104:Huawei Device Co., Ltd.
+785B64:Huawei Device Co., Ltd.
+98D93D:Demant Enterprise A/S
+B4A678:Zhejiang Tmall Technology Co., Ltd.
+ACC4BD:GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+54E15B:Huawei Device Co., Ltd.
+542F04:Shanghai Longcheer Technology Co., Ltd.
+C4A10E:IEEE Registration Authority
+0CEC84:Shenzhen TINNO Mobile Technology Corp.
+B43939:Shenzhen TINNO Mobile Technology Corp.
+8C9806:SHENZHEN SEI ROBOTICS CO.,LTD
+200889:zte corporation
+7070FC:GOLD&WATER INDUSTRIAL LIMITED
+88F2BD:GD Midea Air-Conditioning Equipment Co.,Ltd.
+A0F895:Shenzhen TINNO Mobile Technology Corp.
+6C0831:ANALOG SYSTEMS
+70AC08:Silicon Laboratories
+2C07F6:SKG Health Technologies Co., Ltd.
+0024E4:Withings
+A47EFA:Withings
+3C26E4:Cisco Systems, Inc
+3891B7:Cisco Systems, Inc
+345DA8:Cisco Systems, Inc
+7891DE:Guangdong ACIGA Science&Technology Co.,Ltd
+E0806B:Xiaomi Communications Co Ltd
+7050E7:IEEE Registration Authority
+0013B4:Appear AS
+38127B:Crenet Labs Co., Ltd.
+B0E45C:Samsung Electronics Co.,Ltd
+BC4CA0:HUAWEI TECHNOLOGIES CO.,LTD
+74342B:HUAWEI TECHNOLOGIES CO.,LTD
+C412EC:HUAWEI TECHNOLOGIES CO.,LTD
+6CC242:Shenzhen Skyworth Digital Technology CO., Ltd
+687FF0:TP-Link Corporation Limited
+DC360C:Hitron Technologies. Inc
+38FDF5:Renesas Electronics (Penang) Sdn. Bhd.
+4C627B:SmartCow AI Technologies Taiwan Ltd.
+BC7B72:Huawei Device Co., Ltd.
+F82B7F:Huawei Device Co., Ltd.
+D868A0:Samsung Electronics Co.,Ltd
+04292E:Samsung Electronics Co.,Ltd
+40C3BC:Huawei Device Co., Ltd.
+2853E0:Sintela Ltd
+60CF69:meerecompany
+34FE1C:CHOUNG HWA TECH CO.,LTD
+F4939F:Hon Hai Precision Industry Co., Ltd.
+A4AE12:Hon Hai Precision Industry Co., Ltd.
+38F0C8:Logitech
+BC5DA3:Sichuan Tianyi Comheart Telecom Co.,LTD
+80751F:SKY UK LIMITED
+C0A36E:SKY UK LIMITED
+00A388:SKY UK LIMITED
+AC4E65:Fiberhome Telecommunication Technologies Co.,LTD
+807215:SKY UK LIMITED
+B03E51:SKY UK LIMITED
+1CEF03:Guangzhou V-SOLUTION Electronic Technology Co., Ltd.
+58B03E:Nintendo Co.,Ltd
+544538:Texas Instruments
+7413EA:Intel Corporate
+187A3E:Silicon Laboratories
+300505:Intel Corporate
+B0DCEF:Intel Corporate
+2CA774:Texas Instruments
+DCF31C:Texas Instruments
+28BC05:BLU Products Inc
+184E03:HMD Global Oy
+4022D8:Espressif Inc.
+E00871:Dongguan Liesheng Electronic Co., Ltd.
+906560:EM Microelectronic
+A0FB83:Honor Device Co., Ltd.
+DC0B09:Cisco Systems, Inc
+08F3FB:Cisco Systems, Inc
+880AA3:Juniper Networks
+04D9C8:Hon Hai Precision Industry Co., Ltd.
+78C213:Sagemcom Broadband SAS
+A036BC:ASUSTek COMPUTER INC.
+1073EB:Infiniti Electro-Optics
+9C956E:Microchip Technology Inc.
+840BBB:MitraStar Technology Corp.
+70B306:Apple, Inc.
+B8496D:Apple, Inc.
+9C924F:Apple, Inc.
+200E2B:Apple, Inc.
+F0D793:Apple, Inc.
+CCD3C1:Vestel Elektronik San ve Tic. A.S.
+ECBE5F:Vestel Elektronik San ve Tic. A.S.
+A8DC5A:Digital Watchdog
+1C24CD:ASKEY COMPUTER CORP
+303D51:IEEE Registration Authority
+00FBF9:Axiado Corporation
+447147:Beijing Xiaomi Electronics Co.,Ltd
+F4BBC7:vivo Mobile Communication Co., Ltd.
+DCAA43:Shenzhen Terca Information Technology Co., Ltd.
+4C364E:Panasonic Connect Co., Ltd.
+986610:zte corporation
+88B436:FUJIFILM Corporation
+38A89B:Fiberhome Telecommunication Technologies Co.,LTD
+6437A4:TOKYOSHUHA CO.,LTD.
+843C4C:Robert Bosch SRL
+6C72E2:amitek
+3027CF:Canopy Growth Corp
+90CAFA:Google, Inc.
+78F1C6:Cisco Systems, Inc
+341B2D:Cisco Systems, Inc
+64B5F2:Samsung Electronics Co.,Ltd
+4416FA:Samsung Electronics Co.,Ltd
+FC671F:Tuya Smart Inc.
+78C57D:Zyxel Communications Corporation
 848094:Meter, Inc.
 10B3D5:Cisco Systems, Inc
 30A2C2:Huawei Device Co., Ltd.
@@ -12722,7 +12936,6 @@ DC8C37:Cisco Systems, Inc
 E8D0FC:Liteon Technology Corporation
 E8E8B7:Murata Manufacturing Co., Ltd.
 103D3E:China Mobile Group Device Co.,Ltd.
-7C50DA:Private
 64CC22:Arcadyan Corporation
 4C9157:Fujian LANDI Commercial Equipment Co.,Ltd
 9C25BE:Wildlife Acoustics, Inc.
@@ -13038,7 +13251,6 @@ A4EA8E:Extreme Networks, Inc.
 746BAB:GUANGDONG ENOK COMMUNICATION CO., LTD
 7829ED:ASKEY COMPUTER CORP
 5061BF:Cisco Systems, Inc
-0009DF:Vestel Elektronik San ve Tic. A.Å.
 F4032F:Reduxio Systems
 944A0C:Sercomm Corporation.
 000FA2:2xWireless
@@ -13282,11 +13494,9 @@ F0BD2E:H+S Polatis Ltd
 0040E4:E-M TECHNOLOGY, INC.
 984B4A:ARRIS Group, Inc.
 E084F3:High Grade Controls Corporation
-38A6CE:BSkyB Ltd
 70708B:Cisco Systems, Inc
 389F5A:C-Kur TV Inc.
 D843ED:Suzuken
-BC4101:Shenzhen TINNO Mobile Technology Corp.
 043A0D:SM Optics S.r.l.
 448F17:Samsung Electronics Co., Ltd. ARTIK
 00FC8B:Amazon Technologies Inc.
@@ -13454,7 +13664,6 @@ DCA904:Apple, Inc.
 6CAB31:Apple, Inc.
 4C74BF:Apple, Inc.
 04946B:TECNO MOBILE LIMITED
-A04C5B:Shenzhen TINNO Mobile Technology Corp.
 488803:ManTechnology Inc.
 B436E3:KBVISION GROUP
 94D299:Techmation Co.,Ltd.
@@ -13539,7 +13748,6 @@ C8AA55:Hunan Comtom Electronic Incorporated Co.,Ltd
 8809AF:Masimo Corporation
 2CD02D:Cisco Systems, Inc
 9CCC83:Juniper Networks
-24A7DC:BSkyB Ltd
 64DBA0:Select Comfort
 F8983A:Leeman International (HongKong) Limited
 4CECEF:Soraa, Inc.
@@ -13576,7 +13784,6 @@ D436DB:Jiangsu Toppower Automotive Electronics Co., Ltd
 2CDCAD:Wistron Neweb Corporation
 6C5C14:GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 E80945:Integrated Device Technology (Malaysia) Sdn. Bhd.
-B0A2E7:Shenzhen TINNO Mobile Technology Corp.
 7C2587:chaowifi.com
 2C2131:Juniper Networks
 00501E:Grass Valley, A Belden Brand
@@ -14311,8 +14518,6 @@ B075D5:zte corporation
 D0154A:zte corporation
 0026ED:zte corporation
 006057:Murata Manufacturing Co., Ltd.
-783E53:BSkyB Ltd
-0019FB:BSkyB Ltd
 14B968:HUAWEI TECHNOLOGIES CO.,LTD
 5CF96A:HUAWEI TECHNOLOGIES CO.,LTD
 083E8E:Hon Hai Precision Ind. Co.,Ltd.
@@ -15439,7 +15644,6 @@ B4A4E3:Cisco Systems, Inc
 8C1F94:RF Surgical System Inc.
 4491DB:Shanghai Huaqin Telecom Technology Co.,Ltd
 14D76E:CONCH ELECTRONIC Co.,Ltd
-AC83F0:ImmediaTV Corporation
 CC6B98:Minetec Wireless Technologies
 3C04BF:PRAVIS SYSTEMS Co.Ltd.,
 94DD3F:A+V Link Technologies, Corp.
@@ -16356,7 +16560,6 @@ D8D67E:GSK CNC EQUIPMENT CO.,LTD
 0013D8:Princeton Instruments
 001399:STAC Corporation.
 0013E9:VeriWave, Inc.
-001395:congatec AG
 001356:FLIR Radiation Inc
 00135A:Project T&E Limited
 001361:Biospace Co., Ltd.
@@ -16652,7 +16855,6 @@ D8D67E:GSK CNC EQUIPMENT CO.,LTD
 000C1F:Glimmerglass Networks
 000C20:Fi WIn, Inc.
 000C15:CyberPower Systems, Inc.
-000BF8:Infinera
 000BFF:Berkeley Camera Engineering
 000C16:Concorde Microsystems Inc.
 000C09:Hitachi IE Systems Co., Ltd
@@ -18030,7 +18232,6 @@ D4F829:Sagemcom Broadband SAS
 E06234:Texas Instruments
 708CBB:MIMODISPLAYKOREA
 B848AA:EM Microelectronic
-D834EE:Stem Audio
 F8572E:Core Brands, LLC
 001C91:Gefen LLC
 244BFE:ASUSTek COMPUTER INC.
@@ -18118,7 +18319,6 @@ BC03A7:MFP MICHELIN
 2C6F51:Herospeed Digital Technology Limited
 04A2F3:Fiberhome Telecommunication Technologies Co.,LTD
 CCDB93:Cisco Systems, Inc
-18D61C:Shenzhen TINNO Mobile Technology Corp.
 5448E6:Beijing Xiaomi Mobile Software Co., Ltd
 60D4E9:GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 30C50F:HUAWEI TECHNOLOGIES CO.,LTD
@@ -18241,7 +18441,6 @@ DCB7FC:Alps Electric (Ireland) Ltd
 ACFAA5:digitron
 78C95E:Midmark RTLS
 20CD6E:Realme Chongqing Mobile Telecommunications Corp.,Ltd.
-BC69CB:Panasonic Life Solutions Networks Co., Ltd.
 089356:HUAWEI TECHNOLOGIES CO.,LTD
 000789:Allradio Co., Ltd
 6C146E:HUAWEI TECHNOLOGIES CO.,LTD
@@ -18518,7 +18717,6 @@ A8556A:3S System Technology Inc.
 1874E2:IEEE Registration Authority
 F0C814:SHENZHEN BILIAN ELECTRONIC CO.ï¼LTD
 CC3ADF:Neptune Technology Group Inc.
-68EC8A:Private
 3C62F0:Sercomm Corporation.
 983B67:DWnet Technologies(Suzhou) Corporation
 58355D:Huawei Device Co., Ltd.
@@ -18833,26 +19031,25 @@ B099D7:Samsung Electronics Co.,Ltd
 90EB48:Shanghai XinMiaoLink Technology Co., Ltd
 B4B742:Amazon Technologies Inc.
 78A03F:Amazon Technologies Inc.
-50C1F0:NXP Semiconductor (Tianjin) LTD.
-F4848D:TP-LINK TECHNOLOGIES CO.,LTD.
-581122:ASUSTek COMPUTER INC.
 60BEB4:S-Bluetech co., limited
 90DF7D:Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+50C1F0:NXP Semiconductor (Tianjin) LTD.
+F4848D:TP-LINK TECHNOLOGIES CO.,LTD.
 A854A2:Heimgard Technologies AS
 742A8A:shenzhen worldelite electronics co., LTD
 BC1D89:Motorola Mobility LLC, a Lenovo Company
 B87EE5:Intelbras
-94ABFE:Nokia
+581122:ASUSTek COMPUTER INC.
 74694A:Sichuan Tianyi Comheart Telecom Co.,LTD
 78152D:UNION CHIP TECHNOLOGY LIMITED
+94ABFE:Nokia
 98A92D:New H3C Technologies Co., Ltd
 00A554:Intel Corporate
 0C8629:IEEE Registration Authority
 50DCD0:Observint Technologies, Inc.
-E0036B:Samsung Electronics Co.,Ltd
-1869D4:Samsung Electronics Co.,Ltd
 D4F0EA:Beijing Xiaomi Mobile Software Co., Ltd
 5876AC:SERNET (SUZHOU) TECHNOLOGIES CORPORATION
+E0036B:Samsung Electronics Co.,Ltd
 80691A:Belkin International Inc.
 643172:ZHEJIANG HISING TECHNOLOGY CO.,LTD
 D0FCD0:HUMAX Co., Ltd.
@@ -18862,42 +19059,166 @@ D0FCD0:HUMAX Co., Ltd.
 38AB41:Texas Instruments
 CC4792:ASIX Electronics Corporation
 E046EE:NETGEAR
-DCBE49:ITEL MOBILE LIMITED
-9C9561:Hui Zhou Gaoshengda Technology Co.,LTD
 9C4F5F:Google, Inc.
 A02942:Intel Corporate
 1071B3:Zyxel Communications Corporation
-F0D415:Intel Corporate
-D4D853:Intel Corporate
 0463D0:Huawei Device Co., Ltd.
+F0D415:Intel Corporate
+1869D4:Samsung Electronics Co.,Ltd
+9C9561:Hui Zhou Gaoshengda Technology Co.,LTD
+DCBE49:ITEL MOBILE LIMITED
 14448F:Edgecore Networks Corporation
 3425BE:Amazon Technologies Inc.
-C0EDE5:GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-10A562:Iton Technology Corp.
 D4A3EB:Shenzhen iComm Semiconductor CO.,LTD
 9CBFCD:HUAWEI TECHNOLOGIES CO.,LTD
 B89FCC:HUAWEI TECHNOLOGIES CO.,LTD
 9CE041:Nokia
 783486:Nokia
+D4D853:Intel Corporate
 8C763F:ARRIS Group, Inc.
 281293:Honor Device Co., Ltd.
 C0A938:HUAWEI TECHNOLOGIES CO.,LTD
+C0EDE5:GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+10A562:Iton Technology Corp.
 5C24E2:Suzhou Denbom Electronic S&T Co., Ltd
 64989E:TRINNOV AUDIO
 BCC746:Hon Hai Precision IND.CO.,LTD
 30E8E4:Qorvo International Pte. Ltd.
 000DA9:INGETEAM
 30E090:Genevisio Ltd.
+64FD96:Sagemcom Broadband SAS
 FCB97E:GE Appliances
 88034C:WEIFANG GOERTEK ELECTRONICS CO.,LTD
 48DC9D:Grandprint(Beijing) Technology Co., LTD.
-64FD96:Sagemcom Broadband SAS
-7CECB1:Apple, Inc.
-5CE91E:Apple, Inc.
-A8B0AE:BizLink Special Cables Germany GmbH
 C8EBEC:Shenzhen YOUHUA Technology Co., Ltd
 047C16:Micro-Star INTL CO., LTD.
 E0D738:WireStar Networks
+404244:Cisco Systems, Inc
+04B6BE:CIG SHANGHAI CO LTD
+7CECB1:Apple, Inc.
+5CE91E:Apple, Inc.
+A8B0AE:BizLink Special Cables Germany GmbH
+94C5A6:ITEL MOBILE LIMITED
+4857D2:Broadcom Limited
+9C2183:Broadcom Limited
+241FBD:Extreme Networks, Inc.
+D834EE:SHURE INCORPORATED
+F0B661:eero inc.
+0425F0:Nokia
+1CBCEC:silex technology, Inc.
+E06A05:Shenzhen YOUHUA Technology Co., Ltd
+90CD1F:Quectel Wireless Solutions Co.,Ltd.
+90235B:Amazon Technologies Inc.
+14130B:Garmin International
+489BE0:Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+5CFA25:Sagemcom Broadband SAS
+403B7B:Huawei Device Co., Ltd.
+0830CE:Fiberhome Telecommunication Technologies Co.,LTD
+B0A2E7:Shenzhen TINNO Mobile Technology Corp.
+A04C5B:Shenzhen TINNO Mobile Technology Corp.
+BC4101:Shenzhen TINNO Mobile Technology Corp.
+749779:CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+F8CDC8:Sichuan Tianyi Comheart Telecom Co.,LTD
+B0285B:JUHUA Technology Inc.
+18D61C:Shenzhen TINNO Mobile Technology Corp.
+34CF6C:Hangzhou Taili wireless communication equipment Co.,Ltd
+E0F678:Fiberhome Telecommunication Technologies Co.,LTD
+28F7D6:Fiberhome Telecommunication Technologies Co.,LTD
+C82496:Jiangsu Yinhe Electronics Co.,Ltd.
+2418C0:E. Wehrle GmbH
+145BB9:ConMet
+AC83F0:Cobalt Digital Inc.
+AC15A2:TP-Link Corporation Limited
+B859C8:70mai Co.,Ltd.
+A8E207:GOIP Global Services Pvt. Ltd.
+402230:Shenzhen SuperElectron Technology Co.,Ltd.
+B8B409:Samsung Electronics Co.,Ltd
+ACDF9F:Arcadyan Corporation
+D4E22F:Roku, Inc
+001395:congatec GmbH
+2877B1:Tri plus grupa d.o.o.
+C43CB0:SHENZHEN BILIAN ELECTRONIC CO.ï¼LTD
+3C0B4F:Yandex Services AG
+4C312D:Sichuan AI-Link Technology Co., Ltd.
+D87E6F:CASCINATION AG
+044F7A:China Mobile Group Device Co.,Ltd.
+405EF6:Samsung Electronics Co.,Ltd
+945244:Samsung Electronics Co.,Ltd
+9C2E7A:Samsung Electronics Co.,Ltd
+7C6305:Amazon Technologies Inc.
+C04E30:Espressif Inc.
+74E798:Juniper Networks
+E016B1:Advanced Design Technology co.,ltd.
+5431D4:TGW Mechanics GmbH
+9401AC:Wuhan Qianyang Iotian Technology Co., Ltd
+C06911:Arista Networks
+E4B555:Huawei Device Co., Ltd.
+24A7DC:SKY UK LIMITED
+38A6CE:SKY UK LIMITED
+AC606F:Nokia Shanghai Bell Co., Ltd.
+0019FB:SKY UK LIMITED
+783E53:SKY UK LIMITED
+68EC8A:IKEA of Sweden AB
+4802AF:Telit Communication s.p.a
+FCC737:Shaanxi Gangsion Electronic Technology Co., Ltd
+94286F:zte corporation
+400EF3:zte corporation
+1C46D1:SKY UK LIMITED
+003F10:Shenzhen GainStrong Technology Co., Ltd.
+8822B2:Chipsea Technologies (Shenzhen) Corp.
+687A64:Intel Corporate
+BC0358:Intel Corporate
+88B863:HISENSE VISUAL TECHNOLOGY CO.,LTD
+BC69CB:Panasonic Electric Works Networks Co., Ltd.
+58C57E:Fiberhome Telecommunication Technologies Co.,LTD
+743AF4:Intel Corporate
+2C93FB:Sercomm France Sarl
+B4466B:REALTIMEID AS
+906AEB:Microsoft Corporation
+C4EB39:Sagemcom Broadband SAS
+0052C8:Made Studio Design Ltd.
+089DF4:Intel Corporate
+DC4628:Intel Corporate
+0C9192:Intel Corporate
+48AD9A:Intel Corporate
+6865B7:Zhishang Chuanglian Technology Co., Ltd
+F0C1CE:GoodWe Technologies CO., Ltd
+582B0A:Texas Instruments
+D8E844:zte corporation
+E46A35:Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+2004F3:Honor Device Co., Ltd.
+589A3E:Amazon Technologies Inc.
+E838A0:Vizio, Inc
+C81EC2:ITEL MOBILE LIMITED
+38E7C0:Hui Zhou Gaoshengda Technology Co.,LTD
+68B9C2:Earda Technologies co Ltd
+6883CB:Apple, Inc.
+FC1263:ASKEY COMPUTER CORP
+58305B:Shanghai Junqian Sensing Technology Co.,LTD
+ECC07A:Laird Connectivity
+9C0591:Mellanox Technologies, Inc.
+0009DF:Vestel Elektronik San ve Tic. A.S.
+C071AA:ShenZhen OnMicro Electronics Co.,Ltd.
+709C45:HUAWEI TECHNOLOGIES CO.,LTD
+94A07D:Huawei Device Co., Ltd.
+5C0758:Ufispace Co., LTD.
+FC0736:Huawei Device Co., Ltd.
+A03131:Procenne Digital Security
+84F44C:International Integrated Systems., Inc.
+142D79:Fiberhome Telecommunication Technologies Co.,LTD
+DCB7AC:Aruba, a Hewlett Packard Enterprise Company
+A49E69:Silicon Laboratories
+DCE650:Extreme Networks, Inc.
+487310:Juniper Networks
+CC5EF8:CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+7C50DA:E.J Ward
+7CDCCC:Beijing Yixin Techology Co.,Ltd
+005CC2:SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+783EA1:Nokia Shanghai Bell Co., Ltd.
+E4ECE8:Samsung Electronics Co.,Ltd
+C8908A:Samsung Electronics Co.,Ltd
+403306:Taicang T&W Electronics
+000BF8:Infinera, Inc.
 F8D027:Seiko Epson Corporation
 5C666C:GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 4C4BF9:IEEE Registration Authority
@@ -18933,7 +19254,6 @@ DCF8B9:zte corporation
 18BF1C:Jiangsu Huitong Group Co.,Ltd.
 ACDE48:Private
 0050C7:Private
-002067:Private
 4801C5:OnePlus Technology (Shenzhen) Co., Ltd
 B4EE25:Shenzhen Belon Technology CO.,LTD
 C82B96:Espressif Inc.
@@ -18941,7 +19261,6 @@ C82B96:Espressif Inc.
 D015A6:Aruba, a Hewlett Packard Enterprise Company
 000163:Cisco Systems, Inc
 205F3D:Cambridge Communication Systems Ltd
-04819B:BSkyB Ltd
 E00084:HUAWEI TECHNOLOGIES CO.,LTD
 2CA89C:Creatz inc.
 4CDC0D:Coral Telecom Limited
@@ -19080,7 +19399,6 @@ A89CED:Xiaomi Communications Co Ltd
 6CA604:ARRIS Group, Inc.
 5CF9DD:Dell Inc.
 D0EC35:Cisco Systems, Inc
-10AE60:Private
 BCCF4F:Zyxel Communications Corporation
 C010B1:HMD Global Oy
 90895F:WEIFANG GOERTEK ELECTRONICS CO.,LTD
@@ -19250,7 +19568,6 @@ A85AF3:Shanghai Siflower Communication Technology Co., Ltd
 889F6F:Samsung Electronics Co.,Ltd
 5C63C9:Intellithings Ltd.
 0C96E6:Cloud Network Technology (Samoa) Limited
-3C8994:BSkyB Ltd
 E00EE1:We Corporation Inc.
 000C43:Ralink Technology, Corp.
 8C9246:Oerlikon Textile Gmbh&Co.KG
@@ -19361,7 +19678,6 @@ E48F65:Yelatma Instrument Making Enterprise, JSC
 C08135:Ningbo Forfan technology Co., LTD
 840D8E:Espressif Inc.
 002082:ONEAC CORPORATION
-B4C0F5:Shenzhen TINNO Mobile Technology Corp.
 406231:GIFA
 FCB7F0:Idaho National Laboratory
 2C28B7:Hangzhou Ruiying technology co., LTD
@@ -19456,7 +19772,6 @@ DCA266:Hon Hai Precision Ind. Co.,Ltd.
 C48466:Apple, Inc.
 347C25:Apple, Inc.
 CC2DB7:Apple, Inc.
-A0BDCD:BSkyB Ltd
 BC91B5:Infinix mobility limited
 282FC2:Automotive Data Solutions
 980074:Raisecom Technology CO., LTD
@@ -19843,7 +20158,6 @@ F8633F:Intel Corporate
 F0D5BF:Intel Corporate
 6474F6:Shooter Detection Systems
 981333:zte corporation
-2047ED:BSkyB Ltd
 748A69:Korea Image Technology Co., Ltd
 BC4760:Samsung Electronics Co.,Ltd
 04180F:Samsung Electronics Co.,Ltd
@@ -20037,7 +20351,6 @@ FC2325:EosTek (Shenzhen) Co., Ltd.
 FC3D93:LONGCHEER TELECOMMUNICATION LIMITED
 D8E0B8:BULAT LLC
 603197:Zyxel Communications Corporation
-C0C976:Shenzhen TINNO Mobile Technology Corp.
 588BF3:Zyxel Communications Corporation
 5067F0:Zyxel Communications Corporation
 001349:Zyxel Communications Corporation
@@ -20417,7 +20730,6 @@ CC46D6:Cisco Systems, Inc
 0041D2:Cisco Systems, Inc
 2CAB00:HUAWEI TECHNOLOGIES CO.,LTD
 A8CA7B:HUAWEI TECHNOLOGIES CO.,LTD
-BC4434:Shenzhen TINNO Mobile Technology Corp.
 04BF6D:Zyxel Communications Corporation
 F88FCA:Google, Inc.
 3898D8:MERITECH CO.,LTD
@@ -20846,7 +21158,6 @@ BC52B4:Nokia
 00F3DB:WOO Sports
 78312B:zte corporation
 C81B6B:Innova Security
-3438AF:Inlab Software GmbH
 B4A828:Shenzhen Concox Information Technology Co., Ltd
 00A2F5:Guangzhou Yuanyun Network Technology Co.,Ltd
 1008B1:Hon Hai Precision Ind. Co.,Ltd.
@@ -21004,7 +21315,6 @@ C098E5:University of Michigan
 708D09:Nokia Corporation
 98FB12:Grand Electronics (HK) Ltd
 3C1040:daesung network
-443C9C:Pintsch Tiefenbach GmbH
 28FC51:The Electric Controller and Manufacturing Co., LLC
 407496:aFUN TECHNOLOGY INC.
 701D7F:Comtech Technology Co., Ltd.
@@ -21532,7 +21842,6 @@ D8C99D:EA DISPLAY LIMITED
 CCFC6D:RIZ TRANSMITTERS
 E03E7D:data-complex GmbH
 0CC6AC:DAGS
-042605:GFR Gesellschaft fÃ¼r Regelungstechnik und Energieeinsparung mbH
 24F0FF:GHT Co., Ltd.
 9CC0D2:Conductix-Wampfler GmbH
 CCF67A:Ayecka Communication Systems LTD
@@ -22809,7 +23118,6 @@ A07332:Cashmaster International Limited
 000EDC:Tellion INC.
 000ECD:SKOV A/S
 000EDB:XiNCOM Corp.
-000EDD:SHURE INCORPORATED
 000EC2:Lowrance Electronics, Inc.
 000EA3:CNCR-IT CO.,LTD,HangZhou P.R.CHINA
 000EA2:McAfee, Inc
@@ -24381,7 +24689,6 @@ A09B17:Taicang T&W Electronics
 A0D83D:Fiberhome Telecommunication Technologies Co.,LTD
 58F2FC:Huawei Device Co., Ltd.
 643AEA:Cisco Systems, Inc
-507043:BSkyB Ltd
 D01411:IEEE Registration Authority
 3C53D7:CEDES AG
 E8136E:HUAWEI TECHNOLOGIES CO.,LTD
@@ -24540,7 +24847,6 @@ F465A6:Apple, Inc.
 FCD436:Motorola Mobility LLC, a Lenovo Company
 0CEC8D:Motorola Mobility LLC, a Lenovo Company
 184F5D:JRC Mobility Inc.
-08CBE5:R3 - Reliable Realtime Radio Communications GmbH
 F023AE:AMPAK Technology,Inc.
 E07726:Huawei Device Co., Ltd.
 94A67E:NETGEAR
@@ -24652,7 +24958,6 @@ E00CE5:HUAWEI TECHNOLOGIES CO.,LTD
 7C004D:HUAWEI TECHNOLOGIES CO.,LTD
 04D320:ITEL MOBILE LIMITED
 1C9957:Intel Corporate
-F46B8C:Hon Hai Precision Ind. Co., Ltd.
 FC3497:ASUSTek COMPUTER INC.
 847AB6:AltoBeam (China) Inc.
 78A6A0:Hangzhou Ezviz Software Co.,Ltd.
@@ -24843,7 +25148,6 @@ BC091B:Intel Corporate
 0064AF:Dish Technologies Corp
 04ECD8:Intel Corporate
 F02A2B:IEEE Registration Authority
-0025DF:Private
 D0497C:OnePlus Technology (Shenzhen) Co., Ltd
 B4ECFF:Wuhan IPG Technologies Co., Ltd.
 F057A6:Intel Corporate
@@ -24877,7 +25181,6 @@ F4CE48:Extreme Networks, Inc.
 0899E8:KEMAS GmbH
 18F87F:Wha Yu Industrial Co., Ltd.
 444F8E:WiZ
-04B86A:BSkyB Ltd
 1C880C:Shenzhen Skyworth Digital Technology CO., Ltd
 EC354D:Wingtech Mobile Communications Co.,Ltd
 80615F:Beijing Sinead Technology Co., Ltd.
@@ -25008,7 +25311,6 @@ E0720A:Shenzhen SuperElectron Technology Co.,Ltd.
 94E129:Samsung Electronics Co.,Ltd
 D0A0D6:ChengDu TD Tech
 24D904:Sichuan Changhong Network Technologies Co., Ltd.
-3C457A:BSkyB Ltd
 902759:Nanjing Jiahao Technology Co., Ltd.
 0013CA:ATX
 2804C6:Wanan Hongsheng Electronic Co.Ltd
@@ -25075,7 +25377,6 @@ ECA907:Apple, Inc.
 684AE9:Samsung Electronics Co.,Ltd
 0050E8:Nomadix, Inc
 54ACFC:LIZN ApS
-4C7274:shenzhenshi xinzhongxin Technology Co.Ltd
 F4B898:Texas Instruments
 B0D278:Texas Instruments
 A439B3:Beijing Xiaomi Mobile Software Co., Ltd
@@ -25138,83 +25439,215 @@ D83DCC:shenzhen UDD Technologies,co.,Ltd
 0417B6:Smart Innovation LLC
 00BE43:Dell Inc.
 B4E265:Shenzhen SDMC Technology Co.,LTD
-CC60C8:Microsoft Corporation
+EC7C5C:Juniper Networks
 00EBD8:MERCUSYS TECHNOLOGIES CO., LTD.
+CC60C8:Microsoft Corporation
 6C8D77:Cisco Systems, Inc
 7411B2:Cisco Systems, Inc
 B417A8:Facebook Technologies, LLC
-EC7C5C:Juniper Networks
 1054D2:IEEE Registration Authority
 001043:A2 CORPORATION
 C4DF39:Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+10634B:SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
 809733:Shenzhen Elebao Technology Co., Ltd
 F46D2F:TP-LINK TECHNOLOGIES CO.,LTD.
 00A265:M2Motive Technology Inc.
 D8365F:Intelbras
 7404F1:Intel Corporate
 000435:InfiNet LLC
+E84DEC:Xerox Corporation
+C8B82F:eero inc.
 5478C9:AMPAK Technology,Inc.
 FC101A:Palo Alto Networks
 6CAEE3:Nokia
 0CAC8A:Sagemcom Broadband SAS
-10634B:SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-E84DEC:Xerox Corporation
-C8B82F:eero inc.
-B43AE2:HUAWEI TECHNOLOGIES CO.,LTD
-F0C8B5:HUAWEI TECHNOLOGIES CO.,LTD
 B85DC3:HUAWEI TECHNOLOGIES CO.,LTD
-B4A7C6:SERVERCOM (INDIA) PRIVATE LIMITED
+B43AE2:HUAWEI TECHNOLOGIES CO.,LTD
 D0A46F:China Dragon Technology Limited
+F0C8B5:HUAWEI TECHNOLOGIES CO.,LTD
+2C60CD:NR ELECTRIC CO., LTD
+8C1E80:Cisco Systems, Inc
+A41EE1:Taicang T&W Electronics
+E8FB1C:AzureWave Technology Inc.
+B4A7C6:SERVERCOM (INDIA) PRIVATE LIMITED
 1C76F2:Samsung Electronics Co.,Ltd
 80C3BA:Sennheiser Consumer Audio GmbH
 4035E6:Samsung Electronics Co.,Ltd
-2C60CD:NR ELECTRIC CO., LTD
 286B35:Intel Corporate
 3043D7:IEEE Registration Authority
-A41EE1:Taicang T&W Electronics
-E8FB1C:AzureWave Technology Inc.
 C0EE40:Laird Connectivity
 A47D9F:Shenzhen iComm Semiconductor CO.,LTD
+84EA97:Shenzhen iComm Semiconductor CO.,LTD
+14B2E5:Shenzhen iComm Semiconductor CO.,LTD
+E0CB56:Shenzhen iComm Semiconductor CO.,LTD
 30045C:Shenzhen SuperElectron Technology Co.,Ltd.
+9079CF:zte corporation
+888FA4:Huawei Device Co., Ltd.
+3C82C0:Technicolor CH USA Inc.
+C4DEE2:Espressif Inc.
+68B6B3:Espressif Inc.
+FCA05A:Oray.com co., LTD.
+90486C:Ring LLC
 3C4645:Shanghai Infinity Wireless Technologies Co.,Ltd.
 A4F933:Intel Corporate
 10F60A:Intel Corporate
 70D823:Intel Corporate
-888FA4:Huawei Device Co., Ltd.
 5068AC:Huawei Device Co., Ltd.
-9079CF:zte corporation
-8C1E80:Cisco Systems, Inc
 50392F:INGRAM MICRO SERVICES
 FC8417:Honor Device Co., Ltd.
 2CA79E:HUAWEI TECHNOLOGIES CO.,LTD
 0C7FB2:ARRIS Group, Inc.
-C4DEE2:Espressif Inc.
-68B6B3:Espressif Inc.
-FCA05A:Oray.com co., LTD.
-84EA97:Shenzhen iComm Semiconductor CO.,LTD
-14B2E5:Shenzhen iComm Semiconductor CO.,LTD
-E0CB56:Shenzhen iComm Semiconductor CO.,LTD
-90486C:Ring LLC
-3C82C0:Technicolor CH USA Inc.
+ACB566:Renesas Electronics (Penang) Sdn. Bhd.
 102407:HUAWEI TECHNOLOGIES CO.,LTD
 74D9EB:Petabit Scale, Inc.
 D021AC:Yohana
+381F26:IEEE Registration Authority
 7CE152:THE GOODYEAR TIRE & RUBBER COMPANY
 28CDC1:Raspberry Pi Trading Ltd
 00903F:WorldCast Systems
-ACB566:Renesas Electronics (Penang) Sdn. Bhd.
-381F26:IEEE Registration Authority
-EC2125:Toshiba Corp.
-00E5F1:BUFFALO.INC
-34EE2A:ConMet
 50E636:AVM Audiovisuelles Marketing und Computersysteme GmbH
-684E05:HUNAN FN-LINK TECHNOLOGY LIMITED
 7820BD:Polysense (Beijing) Technologies Co. Ltd
-F04DD4:Sagemcom Broadband SAS
+EC2125:Toshiba Corp.
+684E05:HUNAN FN-LINK TECHNOLOGY LIMITED
 0499BB:Apple, Inc.
-5C1BF4:Apple, Inc.
+F04DD4:Sagemcom Broadband SAS
+00E5F1:BUFFALO.INC
 A851AB:Apple, Inc.
+5C1BF4:Apple, Inc.
+34EE2A:ConMet
+78669D:Hui Zhou Gaoshengda Technology Co.,LTD
+48468D:Zepcam B.V.
+904992:YSTen Technology Co.,Ltd
 AC2929:Infinix mobility limited
+3CCE0D:Shenzhen juduoping Technology Co.,Ltd
+000EDD:SHURE INCORPORATED
+18FD74:Routerboard.com
+40D95A:AMPAK Technology,Inc.
+4CD0DD:HUAWEI TECHNOLOGIES CO.,LTD
+E4902A:HUAWEI TECHNOLOGIES CO.,LTD
+905E44:HUAWEI TECHNOLOGIES CO.,LTD
+E83A4B:China Mobile Group Device Co.,Ltd.
+60E9AA:CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+240F5E:Shenzhen z-router Technology Co., Ltd
+6C976D:Motorola Mobility LLC, a Lenovo Company
+6411A4:Motorola Mobility LLC, a Lenovo Company
+10F068:Ruckus Wireless
+F0877F:Magnetar Technology Shenzhen Co., LTD.
+74D4DD:Quanta Computer Inc.
+C8D6B7:Solidigm Technology
+605B30:Dell Inc.
+443C9C:Pintsch GmbH
+D880DC:Huawei Device Co., Ltd.
+E8B3EF:Fiberhome Telecommunication Technologies Co.,LTD
+B49F4D:Fiberhome Telecommunication Technologies Co.,LTD
+F46C68:Wistron Neweb Corporation
+8493B2:zte corporation
+2064DE:Sunitec Enterprise Co.,Ltd
+74B725:Huawei Device Co., Ltd.
+408EDF:Huawei Device Co., Ltd.
+A40F98:GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+BC4434:Shenzhen TINNO Mobile Technology Corp.
+70662A:Sony Interactive Entertainment Inc.
+34AC11:China Mobile Group Device Co.,Ltd.
+4432C2:GOAL Co., Ltd.
+18B185:Qiao Information Technology (Zhengzhou) Co., Ltd.
+A0B765:Espressif Inc.
+CCDBA7:Espressif Inc.
+C86C20:Sichuan Tianyi Comheart Telecom Co.,LTD
+C0C976:Shenzhen TINNO Mobile Technology Corp.
+B4C0F5:Shenzhen TINNO Mobile Technology Corp.
+E8F791:Xiaomi Communications Co Ltd
+0C975F:Aruba, a Hewlett Packard Enterprise Company
+DC71DD:AX Technologies
+54A9C8:Home Control Singapore Pte Ltd
+307F10:GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+A490CE:vivo Mobile Communication Co., Ltd.
+F8B8B4:Shenzhen Skyworth Digital Technology CO., Ltd
+B0FBDD:Shenzhen SuperElectron Technology Co.,Ltd.
+3C69D1:ADC Automotive Distance Control System GmbH
+E09C8D:Seakeeper, Inc.
+04BAD6:D-Link Corporation
+343A20:Aruba, a Hewlett Packard Enterprise Company
+303F5D:PT HAN SUNG ELECTORONICS INDONESIA
+18E91D:HUAWEI TECHNOLOGIES CO.,LTD
+48706F:HUAWEI TECHNOLOGIES CO.,LTD
+F46ADD:Liteon Technology Corporation
+C82AF1:TCT mobile ltd
+3CE90E:Espressif Inc.
+A842E3:Espressif Inc.
+7C0C92:Suzhou Mobydata Smart System Co.,Ltd.
+042605:Bosch Building Automation GmbH
+3CFEAC:Cisco Systems, Inc
+04A741:Cisco Systems, Inc
+A0889D:Huawei Device Co., Ltd.
+98D742:Samsung Electronics Co.,Ltd
+D49B74:Kinetic Technologies
+40F8DF:CANON INC.
+2047ED:SKY UK LIMITED
+A0BDCD:SKY UK LIMITED
+3C8994:SKY UK LIMITED
+04819B:SKY UK LIMITED
+507043:SKY UK LIMITED
+04B86A:SKY UK LIMITED
+3C457A:SKY UK LIMITED
+F46B8C:Hon Hai Precision Industry Co., Ltd.
+74375F:SERCOMM PHILIPPINES INC
+7C67AB:Roku, Inc
+0C7FED:IEEE Registration Authority
+F43BD8:Intel Corporate
+C84BD6:Dell Inc.
+E08614:Novatel Wireless Solutions, Inc.
+A8DE68:Beijing Wide Technology Co.,Ltd
+6C302A:Texas Instruments
+7446B3:Texas Instruments
+944E5B:Ubee Interactive Co., Limited
+B4BA9D:SKY UK LIMITED
+50F261:Photon Sail Technologies
+80DAC2:Technicolor CH USA Inc.
+00410E:CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+FC6179:IEEE Registration Authority
+3C4E56:SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
+08B61F:Espressif Inc.
+98A2C0:Cisco Systems, Inc
+EC74D7:Grandstream Networks Inc
+4C7274:Shenzhenshi Xinzhongxin Technology Co.Ltd
+306371:Shenzhenshi Xinzhongxin Technology Co.Ltd
+8812AC:HUNAN FN-LINK TECHNOLOGY LIMITED
+28011C:zte corporation
+A08CF2:YINUOLINK CO.,LTD
+40475E:eero inc.
+20E6DF:eero inc.
+F4931C:Universal Electronics, Inc.
+5C3E1B:Apple, Inc.
+7C2ACA:Apple, Inc.
+288EEC:Apple, Inc.
+E05A1B:Espressif Inc.
+488AE8:vivo Mobile Communication Co., Ltd.
+CCBA6F:HUAWEI TECHNOLOGIES CO.,LTD
+98818A:Huawei Device Co., Ltd.
+A8AA7C:Huawei Device Co., Ltd.
+B4C2F7:Huawei Device Co., Ltd.
+1C3283:COMTTI Intelligent Technology(Shenzhen) Co., Ltd.
+70110E:zte corporation
+785C5E:HUAWEI TECHNOLOGIES CO.,LTD
+C8848C:Ruckus Wireless
+B07839:GD Midea Air-Conditioning Equipment Co.,Ltd.
+749E75:Aruba, a Hewlett Packard Enterprise Company
+F41C71:SHENZHEN SANMU COMMUNICATION TECHNOLOGY CO., LTD
+0025DF:Taser International Inc.
+E886CF:Nokia
+3438AF:Inlab Networks GmbH
+D8F507:Fiberhome Telecommunication Technologies Co.,LTD
+C4EFDA:Honeywell
+D85482:Oxit, LLC
+08CBE5:R3 Solutions GmbH
+D4AD20:Jinan USR IOT Technology Limited
+002067:Private
+681AA4:Shenzhen Skyworth Digital Technology CO., Ltd
+BC5E33:Hangzhou Hikvision Digital Technology Co.,Ltd.
+BC107B:Samsung Electronics Co.,Ltd
+10AE60:Amazon Technologies Inc.
+1CFC17:Cisco Systems, Inc
 7C8AE1:COMPAL INFORMATION (KUNSHAN) CO., LTD.
 54E4A9:BHR Tech GmbH
 208058:Ciena Corporation
@@ -25345,7 +25778,6 @@ A8E544:HUAWEI TECHNOLOGIES CO.,LTD
 88E64B:Juniper Networks
 D8D090:Dell Inc.
 50C4DD:BUFFALO.INC
-0084ED:Private
 E002A5:ABB Robotics
 F42E7F:Aruba, a Hewlett Packard Enterprise Company
 B4CC04:Piranti
@@ -25473,7 +25905,6 @@ B00247:AMPAK Technology, Inc.
 BCE796:Wireless CCTV Ltd
 948FCF:ARRIS Group, Inc.
 A8F5DD:ARRIS Group, Inc.
-44D3AD:Shenzhen TINNO Mobile Technology Corp.
 9C8275:YichipÂ Microelectronics (Hangzhou) Co.,Ltd
 5CCBCA:FUJIAN STAR-NET COMMUNICATION CO.,LTD
 28E98E:Mitsubishi Electric Corporation
@@ -25775,7 +26206,6 @@ D4A33D:Apple, Inc.
 F0766F:Apple, Inc.
 4098AD:Apple, Inc.
 6C4D73:Apple, Inc.
-1CA0B8:Hon Hai Precision Ind. Co., Ltd.
 D88466:Extreme Networks, Inc.
 000496:Extreme Networks, Inc.
 00E02B:Extreme Networks, Inc.
@@ -25842,7 +26272,6 @@ A4B52E:Integrated Device Technology (Malaysia) Sdn. Bhd.
 64CBA3:Pointmobile
 ECFABC:Espressif Inc.
 08BA22:Swaive Corporation
-28C13C:Hon Hai Precision Ind. Co., Ltd.
 B0ECE1:Private
 60E78A:UNISEM
 282986:APC by Schneider Electric
@@ -26093,7 +26522,6 @@ B0F1EC:AMPAK Technology, Inc.
 E45D51:SFR
 EC01EE:GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 6049C1:Avaya Inc
-702084:Hon Hai Precision Ind. Co., Ltd.
 9C6650:Glodio Technolies Co.,Ltd Tianjin Branch
 A0A33B:HUAWEI TECHNOLOGIES CO.,LTD
 7C67A2:Intel Corporate
@@ -26294,7 +26722,6 @@ B43A28:Samsung Electronics Co.,Ltd
 E4121D:Samsung Electronics Co.,Ltd
 44D6E1:Snuza International Pty. Ltd.
 FC9114:Technicolor CH USA Inc.
-486DBB:Vestel Elektronik San ve Tic. A.Å.
 002A10:Cisco Systems, Inc
 00A289:Cisco Systems, Inc
 44E9DD:Sagemcom Broadband SAS
@@ -26869,7 +27296,6 @@ B8A386:D-Link International
 ACCF85:HUAWEI TECHNOLOGIES CO.,LTD
 3871DE:Apple, Inc.
 7081EB:Apple, Inc.
-00738D:Shenzhen TINNO Mobile Technology Corp.
 34BA75:Everest Networks, Inc
 7C18CD:E-TRON Co.,Ltd.
 00E0FC:HUAWEI TECHNOLOGIES CO.,LTD
@@ -26976,7 +27402,6 @@ C40528:HUAWEI TECHNOLOGIES CO.,LTD
 80717A:HUAWEI TECHNOLOGIES CO.,LTD
 0021E8:Murata Manufacturing Co., Ltd.
 000E6D:Murata Manufacturing Co., Ltd.
-902106:BSkyB Ltd
 D02788:Hon Hai Precision Ind. Co.,Ltd.
 904CE5:Hon Hai Precision Ind. Co.,Ltd.
 001FE2:Hon Hai Precision Ind. Co.,Ltd.
@@ -30453,7 +30878,6 @@ A0946A:Shenzhen XGTEC Technology Co,.Ltd.
 388E7A:AUTOIT
 4C710C:Cisco Systems, Inc
 4C710D:Cisco Systems, Inc
-9C31C3:BSkyB Ltd
 6C24A6:vivo Mobile Communication Co., Ltd.
 9C5F5A:GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 E447B3:zte corporation
@@ -30599,7 +31023,6 @@ C01692:China Mobile Group Device Co.,Ltd.
 7076DD:OxyGuard Internation A/S
 94E9EE:Huawei Device Co., Ltd.
 28E34E:HUAWEI TECHNOLOGIES CO.,LTD
-D452EE:BSkyB Ltd
 E023FF:Fortinet, Inc.
 8C59DC:ASR Microelectronics (Shanghai) Co., Ltd.
 18828C:Arcadyan Corporation
@@ -31427,11 +31850,10 @@ A85BB7:Apple, Inc.
 6CD719:Fiberhome Telecommunication Technologies Co.,LTD
 80015C:Synaptics, Inc
 BC6193:Xiaomi Communications Co Ltd
-947FD8:Shenzhen Skyworth Digital Technology CO., Ltd
-C854A4:Infinix mobility limited
 EC71DB:Reolink Innovation Limited
 F8E57E:Cisco Systems, Inc
 3053C1:CRESYN
+947FD8:Shenzhen Skyworth Digital Technology CO., Ltd
 385B44:Silicon Laboratories
 943469:Silicon Laboratories
 AC330B:Japan Computer Vision Corp.
@@ -31439,73 +31861,186 @@ AC330B:Japan Computer Vision Corp.
 CCEB18:OOO TSS
 6C2408:LCFC(Hefei) Electronics Technology Co., Ltd
 EC6073:TP-LINK TECHNOLOGIES CO.,LTD.
-74DDCB:China Leadshine Technology Co.,Ltd
 104D15:Viaanix Inc
 50A015:Shenzhen Yipingfang Network Technology Co., Ltd.
+C854A4:Infinix mobility limited
+A0092E:zte corporation
 B0AFF7:Shenzhen Yipingfang Network Technology Co., Ltd.
 7085C4:Ruijie Networks Co.,LTD
 5CC563:HUNAN FN-LINK TECHNOLOGY LIMITED
-A0092E:zte corporation
-14755B:Intel Corporate
+74DDCB:China Leadshine Technology Co.,Ltd
 A8B13B:HP Inc.
 C43875:Sonos, Inc.
 68B691:Amazon Technologies Inc.
-20898A:Shenzhen Skyworth Digital Technology CO., Ltd
 DCA956:GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 4827C5:HUAWEI TECHNOLOGIES CO.,LTD
 BCD206:HUAWEI TECHNOLOGIES CO.,LTD
-CC827F:Advantech Technology (CHINA) Co., Ltd.
+20898A:Shenzhen Skyworth Digital Technology CO., Ltd
+14755B:Intel Corporate
+F4E204:COYOTE SYSTEM
 F84E58:Samsung Electronics Co.,Ltd
 B47064:Samsung Electronics Co.,Ltd
-4C2E5E:Samsung Electronics Co.,Ltd
-645DF4:Samsung Electronics Co.,Ltd
-D81068:Murata Manufacturing Co., Ltd.
-5C045A:Company NA Stage & Light
+CC827F:Advantech Technology (CHINA) Co., Ltd.
 883F0C:system a.v. co., ltd.
 C8BE35:Extreme Networks, Inc.
 78AF08:Intel Corporate
-F4E204:COYOTE SYSTEM
+D81068:Murata Manufacturing Co., Ltd.
+5C045A:Company NA Stage & Light
 58C356:EM Microelectronic
 A0EDFB:Quectel Wireless Solutions Co.,Ltd.
 B02347:Shenzhen Giant Microelectronics Company Limited
 CCDD58:Robert Bosch GmbH
-D4E053:Aruba, a Hewlett Packard Enterprise Company
+4C2E5E:Samsung Electronics Co.,Ltd
+645DF4:Samsung Electronics Co.,Ltd
 88FC5D:Cisco Systems, Inc
 F4C88A:Intel Corporate
 183C98:Shenzhen Hengyi Technology Co., LTD
 787104:Sichuan Tianyi Comheart Telecom Co.,LTD
 64C582:China Mobile Group Device Co.,Ltd.
-50284A:Intel Corporate
+D4E053:Aruba, a Hewlett Packard Enterprise Company
 5CA4F4:zte corporation
 9409C9:ALPSALPINE CO .,LTD
-246C60:Huawei Device Co., Ltd.
+50284A:Intel Corporate
 98C97C:Shenzhen iComm Semiconductor CO.,LTD
-303EA7:Intel Corporate
+246C60:Huawei Device Co., Ltd.
 28A331:Sierra Wireless
+1834AF:Kaonmedia CO., LTD.
 EC6260:Espressif Inc.
 B06E72:Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+303EA7:Intel Corporate
 607D09:Luxshare Precision Industry Co., Ltd
-1834AF:Kaonmedia CO., LTD.
-28827C:Bosch Automative products(Suzhou)Co.,Ltd Changzhou Branch
+CC3E79:ARRIS Group, Inc.
 28F5D1:ARRIS Group, Inc.
 10E177:ARRIS Group, Inc.
+28827C:Bosch Automative products(Suzhou)Co.,Ltd Changzhou Branch
 90D473:vivo Mobile Communication Co., Ltd.
 08EBF6:HUAWEI TECHNOLOGIES CO.,LTD
-CC3E79:ARRIS Group, Inc.
-0016A3:INGETEAM
-F06C5D:Xiaomi Communications Co Ltd
-24CF24:Beijing Xiaomi Mobile Software Co., Ltd
 C8F09E:Espressif Inc.
 DC5475:Espressif Inc.
 0C7BC8:Cisco Meraki
-286F40:Tonly Technology Co. Ltd
-0C86C7:Jabil Circuit (Guangzhou) Limited
+0016A3:INGETEAM
+24CF24:Beijing Xiaomi Mobile Software Co., Ltd
 1C0D7D:Apple, Inc.
 14F287:Apple, Inc.
 585595:Apple, Inc.
-14946C:Apple, Inc.
-1C5974:IEEE Registration Authority
-74604C:RÃDE
+F06C5D:Xiaomi Communications Co Ltd
 40B02F:Miele & Cie. KG
 1866F0:Jupiter Systems
+74604C:RÃDE
+286F40:Tonly Technology Co. Ltd
 BCC7DA:Earda Technologies co Ltd
+0C86C7:Jabil Circuit (Guangzhou) Limited
+14946C:Apple, Inc.
+1C5974:IEEE Registration Authority
+580032:Genexis B.V.
+B47D76:KNS Group LLC
+C0AD97:TECNO MOBILE LIMITED
+B038E2:Wanan Hongsheng Electronic Co.Ltd
+4C5369:YanFeng Visteon(ChongQing) Automotive Electronic Co.,Ltd
+70A983:Cisco Systems, Inc
+BCFAEB:Cisco Systems, Inc
+74767D:shenzhen kexint technology co.,ltd
+E048D8:Guangzhi Wulian Technology(Guangzhou) Co., Ltd
+F8E4A4:Fiberhome Telecommunication Technologies Co.,LTD
+848553:Biznes Systema Telecom, LLC
+D88863:HUAWEI TECHNOLOGIES CO.,LTD
+C03E50:HUAWEI TECHNOLOGIES CO.,LTD
+806036:HUAWEI TECHNOLOGIES CO.,LTD
+A0C98B:Nokia Solutions and Networks GmbH & Co. KG
+18BB1C:Huawei Device Co., Ltd.
+4C9D22:ACES Co.,Ltd
+88C9E8:Sony Corporation
+B8F0B9:zte corporation
+805B65:LG Innotek
+D4430E:Zhejiang Dahua Technology Co., Ltd.
+00738D:Shenzhen TINNO Mobile Technology Corp.
+44D3AD:Shenzhen TINNO Mobile Technology Corp.
+F85E0B:Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+94D331:Xiaomi Communications Co Ltd
+5C8C30:Taicang T&W Electronics
+2C9D65:vivo Mobile Communication Co., Ltd.
+448816:Cisco Systems, Inc
+34DD04:Minut AB
+E8AC23:HUAWEI TECHNOLOGIES CO.,LTD
+68D927:HUAWEI TECHNOLOGIES CO.,LTD
+90F970:HUAWEI TECHNOLOGIES CO.,LTD
+04CAED:HUAWEI TECHNOLOGIES CO.,LTD
+68EE88:Shenzhen TINNO Mobile Technology Corp.
+543D92:WIRELESS-TEK TECHNOLOGY LIMITED
+9826AD:Quectel Wireless Solutions Co.,Ltd.
+601E98:Axevast Technology
+A8F7D9:Mist Systems, Inc.
+2C3B70:AzureWave Technology Inc.
+3886F7:Google, Inc.
+F4227A:Guangdong Seneasy Intelligent Technology Co., Ltd.
+8C5109:IEEE Registration Authority
+A475B9:Samsung Electronics Co.,Ltd
+80549C:Samsung Electronics Co.,Ltd
+6C60D0:Huawei Device Co., Ltd.
+1CF8D0:Samsung Electronics Co.,Ltd
+640E6A:SECO-LARM USA Inc
+68E154:SiMa.ai
+DC8DB7:ATW TECHNOLOGY, INC.
+702084:Hon Hai Precision Industry Co., Ltd.
+28C13C:Hon Hai Precision Industry Co., Ltd.
+1CA0B8:Hon Hai Precision Industry Co., Ltd.
+18AA1E:Shenzhen Skyworth Digital Technology CO., Ltd
+9C31C3:SKY UK LIMITED
+D452EE:SKY UK LIMITED
+902106:SKY UK LIMITED
+D8FFC3:Shenzhen 3SNIC information technology company Limited
+F08756:Zyxel Communications Corporation
+E8EF05:MIND TECH INTERNATIONAL LIMITED
+4827E2:Espressif Inc.
+58B38F:New H3C Technologies Co., Ltd
+40E171:Jiangsu Huitong Group Co.,Ltd.
+F46D3F:Intel Corporate
+6C724A:Onkyo Technology K.K.
+18C300:Nokia
+D44D77:Nokia
+DC0539:Cisco Systems, Inc
+8C255E:VoltServer
+B01F47:Heights Telecom T ltd
+282947:Chipsea Technologies (Shenzhen) Corp.
+ACBCB5:Apple, Inc.
+082573:Apple, Inc.
+AC007A:Apple, Inc.
+F01FC7:Apple, Inc.
+B88F27:Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+88200D:Apple, Inc.
+BC1541:Nokia
+E0F318:Sichuan Tianyi Comheart Telecom Co.,LTD
+C464F2:Infinix mobility limited
+E4A634:Universal Electronics, Inc.
+2C8D37:Virtium
+14656A:HUAWEI TECHNOLOGIES CO.,LTD
+6CB7E2:HUAWEI TECHNOLOGIES CO.,LTD
+C475EA:HUAWEI TECHNOLOGIES CO.,LTD
+9025F2:HUAWEI TECHNOLOGIES CO.,LTD
+506391:HUAWEI TECHNOLOGIES CO.,LTD
+E8A34E:HUAWEI TECHNOLOGIES CO.,LTD
+041892:HUAWEI TECHNOLOGIES CO.,LTD
+387C76:Universal Global Scientific Industrial Co., Ltd.
+40FDF3:AMPAK Technology,Inc.
+486DBB:Vestel Elektronik San ve Tic. A.S.
+946DAE:Mellanox Technologies, Inc.
+0084ED:LEXMARK INTERNATIONAL, INC.
+ACB687:Arcadyan Corporation
+B43A31:Silicon Laboratories
+4C63AD:Huawei Device Co., Ltd.
+DCDB27:Huawei Device Co., Ltd.
+7042D3:Ruijie Networks Co.,LTD
+441244:Aruba, a Hewlett Packard Enterprise Company
+ECE61D:Huawei Device Co., Ltd.
+CC96E5:Dell Inc.
+34DF20:Shenzhen Comstar .Technology Co.,Ltd
+4075C3:Technicolor CH USA Inc.
+F41AB0:Shenzhen Xingguodu Technology Co., Ltd.
+D88332:TaiXin Semiconductor Co., Ltd
+889CAD:Cisco Systems, Inc
+74249F:TIBRO Corp.
+18C3F4:IEEE Registration Authority
+A4515E:Juniper Networks
+F85B6E:Samsung Electronics Co.,Ltd
+8C6A3B:Samsung Electronics Co.,Ltd
+241153:Samsung Electronics Co.,Ltd
